@@ -73,14 +73,14 @@ These controls improved our ability to isolate the impact of in-app changes.
     Daily Active Users increased by about 19.7% during the experiment, indicating overall app activation.
 
 ## Insights from the Data
-1. Content relevance strongly influences behavior
+- **Content relevance strongly influences behavior**\
     Interest aligned, fresh content produced consistent engagement and retention gains.
-2. Update and timing combination increases revisits
+- **Update and timing combination increases revisits**\
     Push notifications performed best when aligned with usage peaks.
     (e.g., commute hours abd Thu-Fri pre-weekend behavior in South Korea).
-3. Bookmarks & course customization require UX clarity
+- **Bookmarks & course customization require UX clarity**\
     High course engagement contrasted with low bookmark usage, indicating that new users did not realize courses could be saved or edited.
-4. No external ads improved validity
+- **No external ads improved validity**\
     With no paid marketing during the experiment, retention and engagement changes could be attributed more directly to in-app updates.
 
 ## Limitations
