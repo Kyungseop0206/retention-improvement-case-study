@@ -27,7 +27,7 @@ All curated courses, banners, and push notification themes/regions were selected
 Use this to determine optimal push delivery and content update timing to maximize revisit probability.
 
 ### 3. Exposure based cohort design
-Because randomized A/B testing wasn't possible, we constructed nautral eposure cohorts based on when users signed up relative to content updates timing.
+Because randomized A/B testing wasn't possible, we constructed natural eposure cohorts based on when users signed up relative to content updates timing.
 - Group A: No exposure
 - Group B: Partial exposure
 - Group C: Full exposure
