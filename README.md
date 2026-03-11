@@ -94,4 +94,4 @@ These controls improved our ability to isolate the impact of in-app changes.
 - Improve UX clarity and discoverability for key actions such as saving and customizing courses to increase deeper participation.
 - Introduce simple, low friction engagement features to encourage interaction.
 - Run longer term experiments to measure sustained retention and daily active users and reduce short term fluctuations.
-- Collect qualitative feedback through in-app prompts or short surtveys to identify barriers to user participation.
+- Collect qualitative feedback through in-app prompts or short surveys to identify barriers to user participation.
