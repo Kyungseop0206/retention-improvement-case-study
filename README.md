@@ -8,7 +8,15 @@ This repository summarizes a case study I conducted as a Data Team intern at **N
 As the company prepared for a long-term product renewal, we designed and evaluated several data-driven, hypothesis-driven experiments to understand how different engagement strategies affect early retention and overall app activation.
 
 ## My Key Contributions
-As part of the data team, I contributed to experiment design, behavioral data analysis, and impact measurement, while helping validate data quality, control for confounding variables, and collaborate with the marketing team on content decisions informed by the analysis.
+- Designed the exposure-based cohort framework for the analysis
+- Analyzed behavioral data from Google Analytics and MySQL to identify content, timing, and engagement patterns
+- Interpreted the results and translated the findings into recommendations for content, banner, and push notification decisions
+
+## Method Summary
+- Defined exposure cohorts based on user signup timing relative to content update releases
+- Used the no-exposure group as the baseline and the full-exposure group for the main effect estimation, while treating the partial-exposure group as a reference
+- Evaluated D+7 retention, engagement, and revisit behavior using Google Analytics and MySQL event data
+- Reduced confounding through analysis design choices, including holiday exclusion, weekday/weekend considerations, and no overlapping paid marketing activity
 
 ### 1. Data-Driven Content Selection
 We used multiple behavioral datasets to determine which content themes and regions to update:
