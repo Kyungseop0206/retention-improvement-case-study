@@ -1,11 +1,11 @@
 # Retention Improvement Case Study
 ### Data-Driven Cohort Experiment & Hypothesis Validation
-This repository summarizes a case study I conducted as a Data Team intern at **Newruns**, focusing on data-driven experimentation to improve new-user retention for **A Perfect Day**, an AI-powered dating course recommendation app.
+This repository summarizes a case study I conducted as a Data Team intern at **Newruns**, focused on data-driven experimentation to improve new-user retention for **A Perfect Day**, an AI-powered dating course recommendation app.
 
 \* Detailed SQL queries, internal metrics, and confidential assets are excluded to comply with company data policies.
 
 ## Goal
-As the company prepared for a long-term product renewal, we designed and evaluated several data-driven, hypothesis-driven experiments to understand how different engagement strategies affect early retention and overall app activation.
+As the company prepared for a long-term product renewal, the team designed and evaluated several data-driven, hypothesis-driven experiments to understand how different engagement strategies affect early retention and overall app activation.
 
 ## My Key Contributions
 - Designed the exposure-based cohort framework for the analysis
