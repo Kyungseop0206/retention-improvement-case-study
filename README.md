@@ -8,26 +8,26 @@ This repository summarizes a case study I conducted as a Data Team intern at **N
 As the company prepared for a long-term product renewal, we designed and evaluated several data-driven, hypothesis-driven experiments to understand how different engagement strategies affect early retention and overall app activation.
 
 ## My Key Contributions
-As part of data team, I contributed to experimental design, data-driven decision making, and impact measurement, ensuring data validation and controlling confounding variables, while collaborating closely with the marketing team who created the content informed by our analysis.
+As part of the data team, I contributed to experiment design, behavioral data analysis, and impact measurement, while helping validate data quality, control for confounding variables, and collaborate with the marketing team on content decisions informed by the analysis.
 
-### 1. Content theme/region selection based on user data
-We used multiple behavioral datasets to determine which content to update
-- last 1,3,6,12 months of search queries
-- theme and regional interest trends
-- regions not covered within the last 3 months
-- app navigation flow insights
+### 1. Data-Driven Content Selection
+We used multiple behavioral datasets to determine which content themes and regions to update:
+- Search queries from the last 1, 3, 6, and 12 months
+- Theme and regional interest trends
+- Regions not covered within the last 3 months
+- App navigation flow insights
 
-All curated courses, banners, and push notification themes/regions were selected based on actual user interest data.
+Based on these findings, curated courses, banners, and push notification themes and regions were selected using observed user-interest patterns rather than intuition alone.
 
-### 2. Optimizing push notification and content update timing through user activity analysis
-- Analyzed user activity patterns across days of the week.
-- Identified peak usage hours through session data.
-- Considered seasonal behavior and weekday/weekend usage patterns.
+### 2. Engagement Timing Analysis
+- Analyzed user activity patterns across days of the week
+- Identified peak usage hours through session data
+- Considered seasonal behavior and weekday/weekend usage patterns
 
-Use this to determine optimal push delivery and content update timing to maximize revisit probability.
+These insights were used to determine optimal push delivery windows and content update timing to maximize revisit probability.
 
-### 3. Exposure based cohort design
-Because randomized A/B testing wasn't possible, we constructed natural eposure cohorts based on when users signed up relative to content updates timing.
+### 3. Exposure-Based Cohort Design
+Because randomized A/B testing wasn't possible, we constructed natural exposure cohorts based on when users signed up relative to the timing of content updates.
 - Group A: No exposure
 - Group B: Partial exposure
 - Group C: Full exposure
@@ -36,23 +36,23 @@ Because randomized A/B testing wasn't possible, we constructed natural eposure c
 \* Group B served only as a reference and was not included in the final effect estimation.
 
 #### Controlling Key Confounding Variables
-- avoided weeks containing holidays
-- used consistent analysis periods across groups
-- accounted for weekday/weekend engagement variations
-- ensured no external paid marketing was running during the experiment
+- Avoided weeks containing holidays
+- Used consistent analysis periods across groups
+- Accounted for weekday/weekend engagement variation
+- Ensured no external paid marketing was running during the experiment
 
-These controls improved our ability to isolate the impact of in-app changes.
+These controls improved our ability to estimate the impact of in-app changes in a non-randomized setting.
 
-### 4. Analyitics Integration
+### 4. Analytics Integration
 **Google Analytics**
-- screenflow and funnel transitions
-- user journey paths
-- session retention indicators
+- Screen flow and funnel transitions
+- User journey paths
+- Session retention indicators
 
-**App DB (MySQL)**
-- content views & bookmarks
-- push exposure behavior
-- in-app actions related to each update
+**App Database (MySQL)**
+- Content views and bookmarks
+- Push exposure behavior
+- In-app actions related to each update
 
 
 ## Hypothesis Framework
