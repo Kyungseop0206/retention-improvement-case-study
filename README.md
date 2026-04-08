@@ -56,42 +56,41 @@ These controls improved our ability to estimate the impact of in-app changes in 
 
 
 ## Hypothesis Framework
-- Interest aligned, freshly updated content will improve D+7 retention.
-- New curated courses and banners will increase content engagement.
-- Well timed, contextually relevant push notifications will increase revisit behavior.
-- Combining multiple engagement strategies will increase Daily Activate Users.
+- Updating content based on user interest will improve D+7 retention
+- Curated course updates will increase content engagement
+- Push notifications delivered during peak usage periods will increase revisit behavior
+- Combining content updates with push notifications will increase daily active users
 
 ## Key Findings
 - **D+7 Retention Improved** \
-    Users exposed to upadated content and well timed push notifiacation showed an approximately 20% improvement in D+7 retention compared to the baseline group.
-- **Curated Course Updates had the Strongest Impact** \
-    Curated courses increased the largest in engagement, with course related pageviews increasing by about 55%.
+    Users exposed to updated content and well-timed push notifications showed an approximately 20% improvement in D+7 retention compared with the baseline group.
+- **Curated Course Updates Had the Strongest Impact** \
+    Curated course updates showed the largest increase in engagement, with course-related pageviews increasing by about 55%.
 - **Push Notifications Showed Mixed but Positive Results**
     - Informational notices showed a clear increase in engagement
-    - Store related pushes had limited effect
+    - Store-related pushes had limited effect
 - **Daily Active Users Increased**\
-    Daily Active Users increased by about 19.7% during the experiment, indicating overall app activation.
+    Daily active users increased by about 19.7% during the experiment, indicating stronger overall app activation.
 
 ## Insights from the Data
-- **Content relevance strongly influences behavior**\
-    Interest aligned, fresh content produced consistent engagement and retention gains.
-- **Update and timing combination increases revisits**\
-    Push notifications performed best when aligned with usage peaks.
-    (e.g., commute hours abd Thu-Fri pre-weekend behavior in South Korea).
-- **Bookmarks & course customization require UX clarity**\
-    High course engagement contrasted with low bookmark usage, indicating that new users did not realize courses could be saved or edited.
-- **No external ads improved validity**\
-    With no paid marketing during the experiment, retention and engagement changes could be attributed more directly to in-app updates.
+- **Content Relevance Strongly Influenced Behavior**\
+    Content updates based on user interest were associated with improved D+7 retention, while curated course updates drove the strongest gains in content engagement.
+- **Timing Amplified the Impact of Updates**\
+    Push notifications performed best when aligned with usage peaks, such as commute hours and Thu-Fri pre-weekend behavior in South Korea.
+- **Bookmarks and Course Customization Needed Clearer UX Guidance**\
+    High course engagement contrasted with low bookmark usage and edit features, suggesting that new users did not clearly realize that courses could be saved or edited.
+- **No External Ads Strengthened Internal Validity**\
+    With no paid marketing during the experiment, changes in retention and engagement could be attributed more directly to in-app updates.
 
 ## Limitations
-- Retention did not continue to improve after the initial increase.
-- Limited impact on deeper participation
-    - Features such as course creation, reviews, and community engagement showed minimal growth.
-- The lack of a randomized A/B environment limited the ability to fully isolate causal effects.
-- Despite efforts to control major confounders, residual weather or behavioral variations may have influenced user activity.
+- Retention did not continue beyond the initial improvement period
+- The experiment had limited impact on deeper participation
+    - Features such as course creation, reviews, and community engagement showed minimal growth
+- The lack of randomized A/B testing limited the ability to fully isolate causal effects
+- Despite efforts to control major confounders, residual temporal or behavioral variation may still have influenced user activity
 
 ## Future Improvements
-- Improve UX clarity and discoverability for key actions such as saving and customizing courses to increase deeper participation.
-- Introduce simple, low friction engagement features to encourage interaction.
-- Run longer term experiments to measure sustained retention and daily active users and reduce short term fluctuations.
-- Collect qualitative feedback through in-app prompts or short surveys to identify barriers to user participation.
+- Improve UX clarity and discoverability for key actions such as saving and customizing courses to increase deeper participation
+- Introduce simple, low-friction engagement features to encourage interaction
+- Run longer-term experiments to measure sustained retention and daily active users while reducing short-term fluctuations
+- Collect qualitative feedback through in-app prompts or short surveys to identify barriers to user participation
